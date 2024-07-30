@@ -1,2 +1,2 @@
-# Pos_chat
-Semestralna praca pre predmet Principy operacnych systemov.
+# POS Chat
+Principles of Operating Systems - Chat application in C (Semester project)
